@@ -1,4 +1,4 @@
-## Hi there 👋I am Ruchika Trimbakkar
+## Hi there 👋, I am Ruchika Trimbakkar
 
 **Azure Administrator | Microsoft Certified | Cloud Infrastructure & Identity Specialist**
 
