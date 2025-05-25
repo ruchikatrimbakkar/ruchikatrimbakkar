@@ -1,33 +1,77 @@
-## Hi there 👋, I am Ruchika Trimbakkar
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-**Azure Administrator | Microsoft Certified | Cloud Infrastructure & Identity Specialist**
+###
 
-I'm a results-driven cloud professional with over **2 years of experience** in designing, managing, and securing Microsoft Azure environments. I specialize in:
+<div align="center">
+  <a href="https://www.linkedin.com/in/ruchika-trimbakkar-02236b221" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="ruchika442012@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
-- ☁️ **Azure IaaS** – Virtual Machines, Load Balancers, Auto Scaling, Bastion
-- 🔐 **Identity & Access Management** – Entra ID (Azure AD), RBAC, MFA, Conditional Access
-- 🌐 **Networking & Security** – VNets, NSGs, VPN, ExpressRoute
-- 🔄 **Hybrid Identity** – Azure AD Connect, ADFS
-- 🧩 **Automation** – Learning Terraform, Bicep & CI/CD with Azure DevOps
-- 📊 **Monitoring** – Azure Monitor, Log Analytics, Alerts
+###
 
----
+<h1 align="center">Hi there 👋</h1>
 
-### 🚀 What I’m Currently Working On:
-- Hands-on **Azure projects** demonstrating real-world scenarios
-- Building a **GitHub portfolio** with practical cloud labs
-- Learning **Azure DevOps**, **Kubernetes**, and **Infrastructure as Code**
+###
 
----
+<h3 align="left"><hr><br>👩‍💻 My name is Ruchika Trimbakkar</h3>
 
-### 🛠️ Technologies & Tools I Work With
+###
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="50" height="50" style="margin-right:10px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="50" style="margin-right:10px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50" style="margin-right:10px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" style="margin-right:10px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="50" height="50" style="margin-right:10px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Bicep" width="50" height="50" style="margin-right:10px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" width="50" height="50" style="margin-right:10px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="PowerShell" width="50" height="50" style="margin-right:10px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" style="margin-right:10px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50" style="margin-right:10px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Actions" width="50" height="50" style="margin-right:10px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows Server" width="50" height="50" style="margin-right:10px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" width="50" height="50" style="margin-right:10px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="50" height="50" style="margin-right:10px;" />
+<p align="left">I'm a results-driven cloud professional with over 2 + years of experience in designing, managing, and securing Microsoft Azure environments.<br><br>- 🔭 I’m currently working on <b>Azure</b><br><br>- 🌱 I’m currently learning <b>DevOps</b><br><br>- 👯 I’m looking to collaborate on <b>Cloud native Projects</b><br><br>- 📫 How to reach me <b>ruchika442012@gmail.com</b><br><hr><br><h3>🎯I Specialize in:</h3><br>- ☁️ Azure IaaS: <strong><small>Virtual Machines, Load Balancers, Auto Scaling, Bastion</small></strong><br><br>- 🔐 Identity & Access Management: <strong><small>Entra ID (Azure AD), RBAC, MFA, Conditional Access</small></strong><br><br>- 🌐 Networking & Security: <strong><small>VNets, NSGs, VPN, ExpressRoute</small></strong><br><br>- 🔄 Hybrid Identity: <strong><small>Azure AD Connect, ADFS</small></strong><br><br>- 🧩 Automation: <strong><small>Learning Terraform, Bicep & CI/CD with Azure DevOps</small></strong><br><br>- 📊 Monitoring: <strong><small>Azure Monitor, Log Analytics, Alerts</small></strong><br><hr></p>
 
----
+###
 
-### 📫 Let's Connect!
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ruchika-trimbakkar-02236b221)
-- 📧 ruchika442012@gmail.com
+<h3 align="left">🛠 Language and tools</h3>
 
-✨ *Thanks for visiting my profile — I'm excited to share my Azure journey with you!* ☁️
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
+###
+
+<h3 align="left"><hr><br>📫 Let's Connect!</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/ruchika-trimbakkar-02236b221" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="ruchika442012@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<p align="left">✨ Thanks for visiting my profile — I'm excited to share my Azure journey with you! ☁️</p>
+
+###
