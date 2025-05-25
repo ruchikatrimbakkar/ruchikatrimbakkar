@@ -1,6 +1,5 @@
 ## Hi there 👋I am Ruchika Trimbakkar
 
-<!--
 **Azure Administrator | Microsoft Certified | Cloud Infrastructure & Identity Specialist**
 
 I'm a results-driven cloud professional with over **2 years of experience** in designing, managing, and securing Microsoft Azure environments. I specialize in:
@@ -26,5 +25,3 @@ I'm a results-driven cloud professional with over **2 years of experience** in d
 - 📧 ruchika442012@gmail.com
 
 ✨ *Thanks for visiting my profile — I'm excited to share my Azure journey with you!* ☁️
-
--->
