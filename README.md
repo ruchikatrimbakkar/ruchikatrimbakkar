@@ -21,8 +21,6 @@ I'm a results-driven cloud professional with over **2 years of experience** in d
 ---
 ### 🛠️ Technologies & Tools I Work With
 
-### 🛠️ Technologies & Tools I Work With
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50" />
