@@ -72,6 +72,6 @@
 
 ###
 
-<p align="left">✨ Thanks for visiting my profile — I'm excited to share my Azure journey with you! ☁️</p>
+<p align="left">✨ <b>Thanks for visiting my profile — I'm excited to share my Azure journey with you!</b> ☁️</p>
 
 ###
